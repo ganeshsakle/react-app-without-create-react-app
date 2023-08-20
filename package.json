@@ -1,0 +1,27 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "React application without create react application",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshsakle/react-app-without-create-react-app.git"
+  },
+  "author": "ganeshsakle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshsakle/react-app-without-create-react-app/issues"
+  },
+  "homepage": "https://github.com/ganeshsakle/react-app-without-create-react-app#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
